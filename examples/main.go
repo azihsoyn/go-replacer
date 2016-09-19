@@ -1,12 +1,3 @@
-# go-replacer
-go-replacer is keyword replacer
-
-# Instalation
-`go get github.com/azihsoyn/go-replacer`
-
-# Usage
-
-```go
 package main
 
 import (
@@ -32,7 +23,3 @@ func main() {
 	}
 	fmt.Println("OK")
 }
-```
-
-# LICENSE
-MIT
