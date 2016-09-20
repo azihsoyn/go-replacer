@@ -1,6 +1,9 @@
 # go-replacer
 go-replacer is keyword replacer
 
+# Feature
+- Aho–Corasick algorithm (maybe)
+
 # Instalation
 `go get github.com/azihsoyn/go-replacer`
 
